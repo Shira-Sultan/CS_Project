@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <Id>325536804</Id>
+    <CustomerName>ישראל לוי</CustomerName>
+    <CustomerAddress>התאנה 5</CustomerAddress>
+    <CustomerPhone>0543652224</CustomerPhone>
+  </Customer>
+  <Customer>
+    <Id>214485236</Id>
+    <CustomerName>שוקי בר-אור</CustomerName>
+    <CustomerAddress>חזון איש 20</CustomerAddress>
+    <CustomerPhone>0547124585</CustomerPhone>
+  </Customer>
+  <Customer>
+    <Id>338965402</Id>
+    <CustomerName>תמר גולדברג</CustomerName>
+    <CustomerAddress>רימון 50</CustomerAddress>
+    <CustomerPhone>0527185236</CustomerPhone>
+  </Customer>
+  <Customer>
+    <Id>327735403</Id>
+    <CustomerName>שירה סולטן</CustomerName>
+    <CustomerAddress>51 רשב"י</CustomerAddress>
+    <CustomerPhone>0583272396</CustomerPhone>
+  </Customer>
+  <Customer>
+    <Id>217735045</Id>
+    <CustomerName>דסי לוי</CustomerName>
+    <CustomerAddress>6 שערי תשובה</CustomerAddress>
+    <CustomerPhone>0542369875</CustomerPhone>
+  </Customer>
+  <Customer>
+    <Id>52821733</Id>
+    <CustomerName>שרה סולטן</CustomerName>
+    <CustomerAddress>רשב"י 51</CustomerAddress>
+    <CustomerPhone>0527124536</CustomerPhone>
+  </Customer>
+  <Customer>
+    <Id>40891522</Id>
+    <CustomerName>מיכאל ניסן</CustomerName>
+    <CustomerAddress>0512812433</CustomerAddress>
+    <CustomerPhone>הרימון 15</CustomerPhone>
+  </Customer>
+</ArrayOfCustomer>

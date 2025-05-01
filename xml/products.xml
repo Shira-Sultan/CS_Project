@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <Id>100</Id>
+    <ProductName>משקפיים מסרגת פלסטיק ורודה</ProductName>
+    <Category>Children_glasses</Category>
+    <Price>250</Price>
+    <Quantity>50</Quantity>
+  </Product>
+  <Product>
+    <Id>101</Id>
+    <ProductName>משקפיים מסרגת מתכת שחורה</ProductName>
+    <Category>Adult_glasses</Category>
+    <Price>350</Price>
+    <Quantity>40</Quantity>
+  </Product>
+  <Product>
+    <Id>103</Id>
+    <ProductName>משקפיים איכותיות לליזר</ProductName>
+    <Category>Lenses</Category>
+    <Price>400</Price>
+    <Quantity>20</Quantity>
+  </Product>
+  <Product>
+    <Id>106</Id>
+    <ProductName>משקפיים לקריאה מול מסך</ProductName>
+    <Category>Accessories</Category>
+    <Price>100</Price>
+    <Quantity>50</Quantity>
+  </Product>
+  <Product>
+    <Id>104</Id>
+    <ProductName>משקפיים ירוקות</ProductName>
+    <Category>Accessories</Category>
+    <Price>400</Price>
+    <Quantity>0</Quantity>
+  </Product>
+  <Product>
+    <Id>105</Id>
+    <ProductName>משקפופר</ProductName>
+    <Category>Children_glasses</Category>
+    <Price>102</Price>
+    <Quantity>3</Quantity>
+  </Product>
+  <Product>
+    <Id>102</Id>
+    <ProductName>משקפי שמש מנומר</ProductName>
+    <Category>Sun_glasses</Category>
+    <Price>200</Price>
+    <Quantity>58</Quantity>
+  </Product>
+</ArrayOfProduct>

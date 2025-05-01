@@ -1,0 +1,23 @@
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\bin\Tools.deps.json
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\bin\Tools.dll
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\bin\Tools.pdb
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\Tools\obj\Debug\Tools.AssemblyInfo.cs
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\Tools\obj\Debug\Tools.dll
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\Tools\obj\Debug\refint\Tools.dll
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\Tools\obj\Debug\Tools.pdb
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\Tools\obj\Debug\ref\Tools.dll
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\bin\Tools.deps.json
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\bin\Tools.dll
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\bin\Tools.pdb
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\Tools\obj\Debug\Tools.dll
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\Tools\obj\Debug\refint\Tools.dll
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\Tools\obj\Debug\Tools.pdb
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\Tools\obj\Debug\ref\Tools.dll

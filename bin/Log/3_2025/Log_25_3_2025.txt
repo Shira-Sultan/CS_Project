@@ -1,0 +1,27 @@
+25/03/2025 10:21:27   Dal.ProductImplementation.Create:	Start
+25/03/2025 10:21:27   Dal.ProductImplementation.Create:	product Product { Id = 1, ProductName = משקפיים מסרגת פלסטיק ורודה, Category = Children_glasses, Price = 250, Quantity = 50 } added successfully
+25/03/2025 10:21:27   Dal.ProductImplementation.Create:	end
+25/03/2025 10:21:27   Dal.ProductImplementation.Create:	Start
+25/03/2025 10:21:27   Dal.ProductImplementation.Create:	product Product { Id = 2, ProductName = משקפיים מסרגת מתכת שחורה, Category = Adult_glasses, Price = 350, Quantity = 40 } added successfully
+25/03/2025 10:21:27   Dal.ProductImplementation.Create:	end
+25/03/2025 10:21:27   Dal.ProductImplementation.Create:	Start
+25/03/2025 10:21:27   Dal.ProductImplementation.Create:	product Product { Id = 3, ProductName = משקפי שמש מנומר, Category = Sun_glasses, Price = 200, Quantity = 60 } added successfully
+25/03/2025 10:21:27   Dal.ProductImplementation.Create:	end
+25/03/2025 10:21:27   Dal.CustomerImplementation.Create:	Start
+25/03/2025 10:21:27   Dal.CustomerImplementation.Create:	customer Customer { Id = 325536804, CustomerName = ישראל לוי, CustomerAddress = התאנה 5, CustomerPhone = 0543652224 } added successfully
+25/03/2025 10:21:27   Dal.CustomerImplementation.Create:	end
+25/03/2025 10:21:27   Dal.CustomerImplementation.Create:	Start
+25/03/2025 10:21:27   Dal.CustomerImplementation.Create:	customer Customer { Id = 214485236, CustomerName = שוקי בר-אור, CustomerAddress = חזון איש 20, CustomerPhone = 0547124585 } added successfully
+25/03/2025 10:21:27   Dal.CustomerImplementation.Create:	end
+25/03/2025 10:21:27   Dal.CustomerImplementation.Create:	Start
+25/03/2025 10:21:27   Dal.CustomerImplementation.Create:	customer Customer { Id = 338965402, CustomerName = תמר גולדברג, CustomerAddress = רימון 50, CustomerPhone = 0527185236 } added successfully
+25/03/2025 10:21:27   Dal.CustomerImplementation.Create:	end
+25/03/2025 10:21:27   Dal.SaleImplementation.Create:	Start
+25/03/2025 10:21:27   Dal.SaleImplementation.Create:	sale for the product: 1 added successfully
+25/03/2025 10:21:27   Dal.SaleImplementation.Create:	end
+25/03/2025 10:21:27   Dal.SaleImplementation.Create:	Start
+25/03/2025 10:21:27   Dal.SaleImplementation.Create:	sale for the product: 2 added successfully
+25/03/2025 10:21:27   Dal.SaleImplementation.Create:	end
+25/03/2025 10:21:27   Dal.SaleImplementation.Create:	Start
+25/03/2025 10:21:27   Dal.SaleImplementation.Create:	sale for the product: 3 added successfully
+25/03/2025 10:21:27   Dal.SaleImplementation.Create:	end

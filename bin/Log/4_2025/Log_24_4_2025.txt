@@ -1,0 +1,20 @@
+24/04/2025 00:04:29   Dal.SaleImplementation.ReadAll:	Start
+24/04/2025 00:04:29   Dal.SaleImplementation.ReadAll:	End
+24/04/2025 00:04:46   Dal.ProductImplementation.Read:	Start
+24/04/2025 00:04:46   Dal.ProductImplementation.ReadAll:	Start
+24/04/2025 00:04:46   Dal.ProductImplementation.ReadAll:	End
+24/04/2025 00:04:46   Dal.ProductImplementation.Read:	End
+24/04/2025 00:06:07   Dal.CustomerImplementation.ReadAll:	Start
+24/04/2025 00:06:07   Dal.CustomerImplementation.ReadAll:	End
+24/04/2025 00:06:32   Dal.ProductImplementation.ReadAll:	Start
+24/04/2025 00:06:32   Dal.ProductImplementation.ReadAll:	End
+24/04/2025 22:29:40   Dal.CustomerImplementation.Create:	Start
+24/04/2025 22:29:40   Dal.CustomerImplementation.ReadAll:	Start
+24/04/2025 22:29:40   Dal.CustomerImplementation.ReadAll:	End
+24/04/2025 22:29:40   Dal.CustomerImplementation.Create:	Customer Customer { Id = 52821733, CustomerName = שרה סולטן, CustomerAddress = רשב"י 51, CustomerPhone = 0527124536 } added successfully
+24/04/2025 22:29:40   Dal.CustomerImplementation.Create:	End
+24/04/2025 22:32:40   Dal.CustomerImplementation.Create:	Start
+24/04/2025 22:32:40   Dal.CustomerImplementation.ReadAll:	Start
+24/04/2025 22:32:40   Dal.CustomerImplementation.ReadAll:	End
+24/04/2025 22:32:40   Dal.CustomerImplementation.Create:	Customer Customer { Id = 214435408, CustomerName = מנחם כהן, CustomerAddress = התמר 12, CustomerPhone = 0533272987 } added successfully
+24/04/2025 22:32:40   Dal.CustomerImplementation.Create:	End

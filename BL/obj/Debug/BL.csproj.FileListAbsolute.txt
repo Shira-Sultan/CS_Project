@@ -1,0 +1,26 @@
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\BL\obj\Debug\BL.AssemblyInfo.cs
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\BL\obj\Debug\BL.dll
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\BL\obj\Debug\refint\BL.dll
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\BL\obj\Debug\BL.pdb
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\bin\BL.deps.json
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\bin\BL.dll
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\bin\BL.pdb
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\BL\obj\Debug\BL.csproj.Up2Date
+Z:\B\סולטן שירה\C# פרויקט\DotNet2025_2756_5403\BL\obj\Debug\ref\BL.dll
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\bin\BL.deps.json
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\bin\BL.dll
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\bin\BL.pdb
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\BL\obj\Debug\BL.dll
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\BL\obj\Debug\refint\BL.dll
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\BL\obj\Debug\BL.pdb
+C:\Users\user1\Desktop\B הנדסאים\C#\פרויקט\DotNet2025_2756_5403\BL\obj\Debug\ref\BL.dll
